@@ -11,7 +11,7 @@ Teacher: Columns-10 , Label-present , Total column -11
 
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/58842898/155878617-2d03eae2-5def-44bf-9d76-68aab1c86bf3.png)
-![Screenshot (16)](https://user-images.githubusercontent.com/58842898/155878619-9f8c9a06-3272-4850-9566-bff14c1b5ac2.png)
+![image](https://user-images.githubusercontent.com/73153153/166095968-9e883323-22e3-42eb-b7e2-7214262c5d64.png)
 ![Screenshot (195)](https://user-images.githubusercontent.com/73153153/155878691-7bcc77c4-3591-4a90-bbdc-23f73ad9ac3e.png)
 ![Screenshot (191)](https://user-images.githubusercontent.com/58842898/155878621-19392fb2-a8a8-4df4-999c-e238eacf5676.png)
 ![Screenshot (192)](https://user-images.githubusercontent.com/73153153/155878665-6cf83c9c-45da-4957-ad2e-cac07b7c173f.png)
